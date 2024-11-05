@@ -5,4 +5,4 @@
 - 📐 **Interests**: Geometric Modeling, Motion Planning, Microservices, Build Systems
 - 🎨 **Passion**: Designing APIs & GUIs for Industrial Applications
 - 🌟 **Let's connect and innovate!** 🚀
-- 🌐 Check out my website [here](samtitle.com)
+- 🌐 **Visit** my website [here](https://www.samtitle.com/)
